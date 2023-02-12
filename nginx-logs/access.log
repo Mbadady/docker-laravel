@@ -38,3 +38,6 @@
 102.88.62.119 - - [12/Feb/2023:12:28:59 +0000] "GET /api/tags HTTP/1.1" 200 179 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 102.88.62.119 - - [12/Feb/2023:12:29:05 +0000] "GET /api/articles HTTP/1.1" 200 14347 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 192.155.88.231 - - [12/Feb/2023:13:02:07 +0000] "GET / HTTP/1.1" 200 17620 "-" "Mozilla/5.0 zgrab/0.x"
+95.214.235.205 - - [12/Feb/2023:13:32:08 +0000] "GET /.env HTTP/1.1" 404 6626 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36"
+95.214.235.205 - - [12/Feb/2023:13:32:08 +0000] "POST / HTTP/1.1" 405 885046 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36"
+143.244.50.172 - - [12/Feb/2023:13:43:31 +0000] "GET /config/getuser?index=0 HTTP/1.1" 404 6626 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:76.0) Gecko/20100101 Firefox/76.0"
