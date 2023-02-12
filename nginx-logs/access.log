@@ -37,3 +37,4 @@
 102.88.62.119 - - [12/Feb/2023:12:28:53 +0000] "GET /api/users HTTP/1.1" 405 889263 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 102.88.62.119 - - [12/Feb/2023:12:28:59 +0000] "GET /api/tags HTTP/1.1" 200 179 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 102.88.62.119 - - [12/Feb/2023:12:29:05 +0000] "GET /api/articles HTTP/1.1" 200 14347 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+192.155.88.231 - - [12/Feb/2023:13:02:07 +0000] "GET / HTTP/1.1" 200 17620 "-" "Mozilla/5.0 zgrab/0.x"
